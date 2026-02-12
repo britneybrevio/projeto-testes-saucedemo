@@ -1,14 +1,12 @@
-# 🧪 Projeto de Testes Manuais – SauceDemo
+# Projeto de Testes Manuais – SauceDemo
 
-Este repositório contém a documentação de testes manuais realizados na aplicação SauceDemo, com foco na validação funcional das principais funcionalidades de um sistema de e-commerce.
+Este repositório reúne os casos de teste manuais que desenvolvi para validar funcionalidades da aplicação SauceDemo, simulando testes em um cenário de e-commerce.
 
-O objetivo deste projeto é demonstrar organização, clareza na documentação de casos de teste e capacidade de identificação e registro de defeitos em nível QA Júnior.
+A proposta foi praticar a elaboração de casos de teste, executar cenários funcionais e documentar possíveis falhas encontradas durante a navegação no sistema.
 
 ---
 
-## 📌 Escopo de Testes
-
-Foram validadas as seguintes funcionalidades:
+## Funcionalidades testadas
 
 - Login de usuário
 - Adição de produtos ao carrinho
@@ -20,57 +18,28 @@ Foram validadas as seguintes funcionalidades:
 
 ---
 
-## 🧾 Estrutura do Repositório
+## Organização do projeto
 
-📁 **01-casos-de-teste**  
-Contém a planilha com os casos de teste documentados, incluindo:
-- ID do caso de teste
-- Objetivo
-- Pré-condição
-- Passos para execução
-- Resultado esperado
-- Resultado obtido
-- Status (Aprovado/Reprovado)
+📁 01-casos-de-teste  
+Planilha com os casos de teste documentados, contendo objetivo, pré-condição, passos, resultado esperado, resultado obtido e status.
 
-📁 **02-relatorios-de-erros**  
-Contém os relatórios de bugs identificados durante a execução dos testes.
+📁 02-relatorios-de-erros  
+Registro dos bugs identificados durante a execução dos testes.
 
-📁 **03-evidencias**  
-Contém capturas de tela das falhas encontradas durante a validação.
+📁 03-evidencias  
+Capturas de tela utilizadas como evidência das falhas encontradas.
 
 ---
 
-## 🔎 Tipo de Testes Realizados
+## Tipo de testes realizados
 
-- Testes Funcionais
-- Testes Positivos
-- Testes Negativos
-- Validação de Navegação
-- Validação de Interface
-
----
-
-## 🛠️ Ferramentas Utilizadas
-
-- Planilha Excel para documentação dos testes
-- Navegador Web (execução manual)
-- GitHub para versionamento e organização do projeto
+- Testes funcionais
+- Cenários positivos e negativos
+- Validação de navegação
+- Verificação de comportamento da interface
 
 ---
 
-## 🎯 Objetivo Profissional
+## Objetivo
 
-Este projeto foi desenvolvido com o objetivo de demonstrar habilidades em:
-
-- Escrita e organização de casos de teste
-- Análise de comportamento do sistema
-- Comparação entre resultado esperado e obtido
-- Identificação e documentação de defeitos
-- Organização de evidências
-
----
-
-## 👩‍💻 Perfil
-
-Projeto desenvolvido como parte da construção de portfólio profissional para atuação como QA Júnior.
-
+Este projeto faz parte da construção do meu portfólio como QA Júnior, com foco em organização, clareza na documentação e análise do comportamento do sistema durante a execução dos testes.
