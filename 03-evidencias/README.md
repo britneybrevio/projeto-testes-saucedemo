@@ -19,8 +19,6 @@ Capturas de tela da aplicação
 
 Prints do comportamento observado
 
-(Quando aplicável) Console ou Network
-
 README explicando o contexto da evidência
 
 📝 Padrão Utilizado
