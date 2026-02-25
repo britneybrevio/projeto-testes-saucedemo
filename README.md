@@ -1,45 +1,127 @@
-# Projeto de Testes Manuais – SauceDemo
+🧪 Projeto de Testes Manuais – Sauce Demo (Shopify)
 
-Este repositório reúne os casos de teste manuais que desenvolvi para validar funcionalidades da aplicação SauceDemo, simulando testes em um cenário de e-commerce.
+Este repositório reúne a documentação dos testes manuais que realizei no site de demonstração:
 
-A proposta foi praticar a elaboração de casos de teste, executar cenários funcionais e documentar possíveis falhas encontradas durante a navegação no sistema.
+🔗 https://sauce-demo.myshopify.com/
 
----
+O objetivo foi praticar a elaboração de casos de teste, execução prática e registro estruturado de bugs, simulando um cenário real de projeto.
 
-## Funcionalidades testadas
+🎯 Objetivo do Projeto
 
-- Login de usuário
-- Adição de produtos ao carrinho
-- Remoção de produtos do carrinho
-- Lista de desejos
-- Indique um amigo
-- Campo de pesquisa
-- Navegação entre páginas
+Realizar testes funcionais na aplicação, analisando:
 
----
+Fluxos principais do usuário
 
-## Organização do projeto
+Navegação entre páginas
 
-📁 01-casos-de-teste  
-Planilha com os casos de teste documentados, contendo objetivo, pré-condição, passos, resultado esperado, resultado obtido e status.
+Validações de interface
 
-📁 02-relatorios-de-erros  
-Registro dos bugs identificados durante a execução dos testes.
+Comportamentos inesperados
 
-📁 03-evidencias  
-Capturas de tela utilizadas como evidência das falhas encontradas.
+Registro detalhado de falhas encontradas
 
----
+A proposta foi executar os testes como se eu estivesse atuando em um ambiente profissional, organizando evidências e mantendo rastreabilidade.
 
-## Tipo de testes realizados
+📂 Estrutura do Repositório
 
-- Testes funcionais
-- Cenários positivos e negativos
-- Validação de navegação
-- Verificação de comportamento da interface
+O projeto está organizado da seguinte forma:
 
----
+📁 01-casos-de-teste
+Planilha com os cenários planejados, contendo:
 
-## Objetivo
+Objetivo
 
-Este projeto faz parte da construção do meu portfólio como QA Júnior, com foco em organização, clareza na documentação e análise do comportamento do sistema durante a execução dos testes.
+Pré-condição
+
+Passos
+
+Resultado esperado
+
+Resultado obtido
+
+Status
+
+📁 02-bugs-encontrados
+Relatório consolidado dos defeitos identificados durante a execução.
+
+📁 03-evidencias
+Capturas de tela organizadas por bug, contendo as evidências das falhas encontradas.
+Cada bug possui sua própria pasta com imagens e um README explicando o problema identificado.
+
+✅ Sobre os Casos de Teste
+
+Os casos foram criados considerando:
+
+Testes funcionais
+
+Cenários positivos e negativos
+
+Validação de navegação
+
+Verificação de comportamento da URL
+
+Análise de fluxo do usuário
+
+A execução foi feita manualmente, registrando o resultado de cada cenário.
+
+🐞 Sobre os Bugs Encontrados
+
+Durante os testes, identifiquei falhas relacionadas a:
+
+Navegação que não atualiza o conteúdo corretamente
+
+Comportamento inconsistente da interface
+
+Problemas funcionais em fluxos específicos
+
+Cada bug contém:
+
+Descrição clara
+
+Passos para reprodução
+
+Resultado esperado x resultado atual
+
+Classificação de severidade
+
+Evidências visuais
+
+🛠 Ambiente Utilizado
+
+Sistema Operacional: Windows
+
+Navegador: Google Chrome
+
+Tipo de teste: Manual
+
+Abordagem: Casos estruturados + exploração livre
+
+📚 Tipo de Testes Realizados
+
+Testes funcionais
+
+Cenários positivos e negativos
+
+Validação de navegação
+
+Verificação de comportamento da interface
+
+📈 Aprendizados com o Projeto
+
+Durante a execução deste projeto, pratiquei:
+
+Escrita clara de casos de teste
+
+Organização de evidências
+
+Registro técnico de defeitos
+
+Análise crítica do comportamento da aplicação
+
+Estruturação de documentação para portfólio
+
+👩‍💻 Sobre mim
+
+Sou estudante de Ciências da Computação, com interesse na área de Qualidade de Software (QA). Tenho direcionado meus estudos para testes manuais, elaboração de casos de teste e registro estruturado de bugs, buscando desenvolver uma base sólida em processos de validação e garantia de qualidade.
+
+Este projeto faz parte do meu processo de evolução e construção de portfólio profissional.
